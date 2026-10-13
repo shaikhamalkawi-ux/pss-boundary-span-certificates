@@ -1,0 +1,21 @@
+{
+  "source_archive": "PSS_V23_City_Triangle_ExactCore.zip",
+  "preservation": "byte-identical unmodified V23 core",
+  "files": {
+    "core/batched_core.py": {
+      "sha256_source_v23": "1475c87540bb0323e43da4db659766def3688f7e3b7a6028fceab13ac91a3fb4",
+      "sha256_reused_r8": "1475c87540bb0323e43da4db659766def3688f7e3b7a6028fceab13ac91a3fb4",
+      "byte_identical": true
+    },
+    "core/exact_core.py": {
+      "sha256_source_v23": "7d12167b910dfa9db3cdc557c0bc0158338ba8f595cf62454116c534374f635a",
+      "sha256_reused_r8": "7d12167b910dfa9db3cdc557c0bc0158338ba8f595cf62454116c534374f635a",
+      "byte_identical": true
+    },
+    "core/geometry2d.py": {
+      "sha256_source_v23": "7ca890c0727784dd1cf83a98b7311359a419e4dad5bad7fd75ebda65a89dbf77",
+      "sha256_reused_r8": "7ca890c0727784dd1cf83a98b7311359a419e4dad5bad7fd75ebda65a89dbf77",
+      "byte_identical": true
+    }
+  }
+}
