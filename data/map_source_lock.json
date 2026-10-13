@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Berlin_0_256",
+    "source_github_blob_sha1": "1e355c444296b21305bc6753a559cc65dc6d5439",
+    "raw_sha256": "bbb9a6ec86825c8c19da97216a5041285bc2a0dce8d8f366af7913cc3d162aae",
+    "raw_length": 65828,
+    "passable": 48147,
+    "blocked": 17389,
+    "original_repository": "nathansttt/grid_benchmarks",
+    "source_repo_path": "maps/cities/Berlin_0_256.map",
+    "source_url": "https://github.com/nathansttt/grid_benchmarks/blob/main/maps/cities/Berlin_0_256.map"
+  },
+  {
+    "name": "Berlin_1_256",
+    "source_github_blob_sha1": "542dd07e3d5082bb0a6da58dc82cbf58efd3f673",
+    "raw_sha256": "c1be6a222e9b138e64d65ad50da92fca447f75191af9aa3022994fe3487abe56",
+    "raw_length": 65828,
+    "passable": 47540,
+    "blocked": 17996,
+    "original_repository": "nathansttt/grid_benchmarks",
+    "source_repo_path": "maps/cities/Berlin_1_256.map",
+    "source_url": "https://github.com/nathansttt/grid_benchmarks/blob/main/maps/cities/Berlin_1_256.map"
+  },
+  {
+    "name": "Boston_0_256",
+    "source_github_blob_sha1": "66a415e228f49aa4a94a95d02ccbe83962106f83",
+    "raw_sha256": "bc9c572a3d1c5b0273e17ca9af2faa3c685eff669dfbd2561b007c0340ae0e04",
+    "raw_length": 65829,
+    "passable": 47768,
+    "blocked": 17768,
+    "original_repository": "nathansttt/grid_benchmarks",
+    "source_repo_path": "maps/cities/Boston_0_256.map",
+    "source_url": "https://github.com/nathansttt/grid_benchmarks/blob/main/maps/cities/Boston_0_256.map"
+  },
+  {
+    "name": "Paris_1_256",
+    "source_github_blob_sha1": "0ff641690b48c1c4807fcea7c0c31d167973b221",
+    "raw_sha256": "85ec535004685c9fb474954a24bd14395a21cea338bdcfdf7d9a2f21c587f87d",
+    "raw_length": 65829,
+    "passable": 47240,
+    "blocked": 18296,
+    "original_repository": "nathansttt/grid_benchmarks",
+    "source_repo_path": "maps/cities/Paris_1_256.map",
+    "source_url": "https://github.com/nathansttt/grid_benchmarks/blob/main/maps/cities/Paris_1_256.map"
+  }
+]
